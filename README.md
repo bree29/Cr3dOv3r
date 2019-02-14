@@ -49,7 +49,7 @@ python Cr3d0v3r.py -h
 ```
 git clone https://github.com/D4Vinci/Cr3dOv3r.git
 cd Cr3dOv3r
-python3 -m pip install -r requirements.txt
+pip2 install -r requirements.txt
 python3 Cr3d0v3r.py -h
 ```
 
